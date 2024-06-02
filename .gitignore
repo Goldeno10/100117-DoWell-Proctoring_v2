@@ -135,3 +135,5 @@ dist
 frontend/node_modules
 backend/node_modules
 workflow.yaml
+temp_auto_push.bat
+temp_interactive_push.bat
